@@ -1,0 +1,4 @@
+This is a short note on "TicTacToe.java" file. Here the users have to choose either of the Characters "X" or "O" and position them
+within the 3x3 matrix. The users have to assume themselves who would be the winner.
+
+The sample output would come as:
