@@ -2,3 +2,23 @@ This is a short note on "TicTacToe.java" file. Here the users have to choose eit
 within the 3x3 matrix. The users have to assume themselves who would be the winner.
 
 The sample output would come as:
+Enter eother O or X: O
+Position: 0 0
+
+Enter eother O or X: X
+Position: 1 0
+
+Enter eother O or X: O
+Position: 1 1
+
+Enter eother O or X: X
+Position: 1 2
+
+Enter eother O or X: O
+Position: 2 2
+
+The results:
+
+O
+X O X
+    O
